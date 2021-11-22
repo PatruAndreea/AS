@@ -1,1 +1,1 @@
-# AS
+# Sisteme de operare
